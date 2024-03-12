@@ -56,10 +56,10 @@
 
 <footer align="center">
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapu115&layout=compact&hide=css&theme=radical" alt="Intellij" width="400
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yapu115&layout=compact&theme=midnight-purple" width="400
     </div>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=yapu115&include_all_commits=true&show_icons=true&theme=radical" width="400">
+        <img src="https://github-readme-stats.vercel.app/api?username=yapu115&include_all_commits=true&show_icons=true&theme=midnight-purple" width="400">
     </div>  
 </footer>
 
